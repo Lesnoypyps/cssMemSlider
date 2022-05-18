@@ -11,3 +11,14 @@ body{
     overflow: hidden;
     border: 10px solid #ffff;
 }
+.middle{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(50%, 50%);
+}
+.navigation{
+    position: absolute;
+    bottom:16px;
+    left: 50%;
+}
